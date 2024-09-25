@@ -6,7 +6,7 @@ I have intermediate-level skills in smart contract auditing and blockchain archi
 
 🔗 **Find me online:**
 
-- 📧 Email: sabiraboobacker007@gmail.com
+- 📧 Email: devbysaby@gmail.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sabir-aboobaker)
 
 ---
