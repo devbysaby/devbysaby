@@ -1,57 +1,111 @@
-### Hi there 👋 I'm Sabir Aboobaker
+## 👋 Hi there, I'm Sabir Aboobaker
 
-I'm a blockchain solutions architect, backend developer, and software engineer with over five years of experience in designing and implementing DeFi, NFT, and crypto wallet solutions across EVM-based networks. I bring a strong focus on security and scalability in decentralized applications.
+**Backend Blockchain Developer (EVM | Tron | Solana | Bitcoin) | Node.js Engineer | Solutions Architect | Smart Contract Auditor**
 
-I have intermediate-level skills in smart contract auditing and blockchain architecture, and I’m currently advancing my expertise in these areas.
-
-🔗 **Find me online:**
-
-- 📧 Email: devbysaby@gmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/sabir-aboobaker)
+With over **6 years of experience**, I specialize in architecting and building scalable, secure blockchain solutions across EVM-based networks, **Tron**, **Solana**, and **Bitcoin** ecosystems. My work spans **DeFi protocols**, **cross-chain bridges**, **crypto wallets**, **blockchain indexing**, and **smart contract audits**, all with a strong emphasis on performance, modularity, and security.
 
 ---
 
-### 👨‍💻 Current Focus:
+### 💼 What I Do
 
-I’m improving my skills in smart contract security and blockchain architecture, focusing on projects related to scalability, contract audits, and DeFi protocols. I’m looking to contribute to projects that emphasize security and efficient blockchain solutions.
+#### 🔗 **Blockchain Development**
+- Built smart contracts for **staking**, **swapping**, **P2P trading**, **vesting**, **bridging**, **NFTs**, **gaming fund management**, and **upgradable vault systems**
+- Integrated advanced features like **access control**, **gasless meta-transactions**, **EIP-712 typed data signatures**, and **contract upgradeability**
+- Worked across **EVM chains**, **Tron**, **Solana (Rust)**, and **EOS (C++)**
 
----
+#### 🚀 **Node.js Development**
+- Built high-performance **backend APIs** using **Express.js**, **NestJS**, and integrated with frontend frameworks like **Next.js**, **React**, and **Angular**
+- Managed data using **MongoDB**, **PostgreSQL**, **MySQL**, **Redis**, and real-time messaging with **RabbitMQ** and **Kafka**
+- Primarily focused on backend architecture with minimal UI involvement
 
-### 🛠 Skills:
+#### 🛠 **Backend Engineering**
+- Developed **API services**, **microservices**, and **event-driven bots** in **Node.js**, **Python**, and **Rust**
+- Built services for **crypto wallets**, **DeFi platforms**, **NFT apps**, and **cross-chain bridges**
+- Implemented **indexers**, **watch services**, **price rebalancing bots**, and a **P2P trade engine**
 
-- Blockchain Development: Solidity, Web3.js, DeFi, EVM-based networks (Ethereum, Binance, Polygon, Tron), Bitcoin, Solana
-- Smart Contracts: Development, Auditing, Security, Upgradable Contracts, Gasless Contracts, Account Abstraction, Typed Data Signature (EIP-712) Solutions
-- Blockchain Tools: Hardhat, TronBox
-- Blockchain Frameworks: Hyperledger Indy, Aries
-- Backend Development: Node.js, Express.js, NestJS, Python, Flask, Django, Core Java, Go
-- Database & Messaging: MongoDB, Redis, RabbitMQ, PostgreSQL, MySQL, Kafka
-- DevOps Tools: Git, CI/CD, Jenkins, Grafana
+#### 🏗 **Solutions Architecture**
+- Designed large-scale decentralized applications and smart contracts managing **high-value funds** and **high concurrency users**
+- Delivered **secure**, **gas-efficient**, and **modular systems** tailored to complex business logic
 
----
+#### 🔒 **Smart Contract Auditing**
+- Audited **25+ smart contracts**, identifying and fixing issues like **reentrancy**, **access control flaws**, and **gas inefficiencies**
+- Used tools like **Slither**, **Mythril**, and **manual reviews** for in-depth analysis
 
-### 🚀 Projects & Contributions:
-
-- **Building a New Blockchain Network**  
-  Currently working on the design and development of a completely new EVM-based blockchain network, including consensus mechanisms and validator systems.
-
-- **Blockchain Indexer Development**  
-  Developed a custom blockchain indexer for efficient querying and data storage of blockchain transactions, focusing on high scalability and performance optimization.
-
-- **DeFi Solutions on EVM-based Networks**  
-  Developed scalable and secure DeFi projects across Ethereum, Binance, and Polygon networks. Focused on smart contract optimization and upgradable contract implementations.
-
-- **Smart Contract Auditing & Security**  
-  Audited and secured multiple smart contracts, mitigating vulnerabilities and ensuring best practices in blockchain security.
-
-- **Cross-chain Bridging Solutions**  
-  Architected and implemented liquidity-based decentralized bridging solutions, allowing seamless token swaps across networks.
+#### ⚙️ **DevOps & Cloud Infrastructure**
+- Deployed and managed services using **AWS** (EC2, Beanstalk, Lambda, API Gateway, RDS, DynamoDB, S3, SQS, SNS, etc.)
+- CI/CD pipelines with **GitHub Actions**, **Jenkins**, **PM2**, and containerization with **Docker**
+- Monitored logs and metrics using **Grafana**, built robust deployment workflows for multi-service apps
 
 ---
 
-### 🎓 Education:
+### 🛠 Skills
 
-- **MSc Computer Science, Specialization in Cyber Security**  
-  Cochin University of Science and Technology (CUSAT), Kerala, 2019
+#### 🔗 Blockchains & Networks
+Ethereum, Polygon, Binance Smart Chain, Tron, Solana, Bitcoin, Dogecoin, Litecoin, Algorand  
+Hyperledger (Indy, Aries, Firefly)
 
-- **Bachelors of Computer Applications**  
-  Mahatma Gandhi University (MGU), Kerala, 2017
+#### 🧑‍💻 Programming Languages
+Solidity, Rust, JavaScript, TypeScript, Python, Go, C#, Java, SQL
+
+#### ⚒️ Blockchain Tools & Frameworks
+Foundry, Hardhat, Viem, Ethers.js, Web3.js, TronWeb, Web3.py  
+OpenGSN, Moralis, OpenZeppelin Defender  
+Auditing Tools: Slither, Mythril
+
+#### 🖥 Backend & API Development
+Node.js, Express.js, NestJS  
+MongoDB, PostgreSQL, MySQL, Redis  
+RabbitMQ, Kafka, REST APIs
+
+#### 💻 Frontend & Mobile Development
+React, Angular, Next.js, TypeScript  
+React Native, Xamarin
+
+#### ☁️ DevOps & Cloud Infrastructure
+AWS, GitHub Actions, Jenkins, Docker, PM2  
+Grafana for monitoring and analysis
+
+#### 🚀 Additional Expertise
+Smart Contract Development & Auditing  
+Cross-Chain Bridge Architecture  
+Blockchain Indexing & Data Services  
+DApp Architecture & Token Standards  
+Technical Documentation & Team Leadership
+
+---
+
+### 🚀 Notable Projects
+
+- **🧱 EVM-based Blockchain Network**  
+  Designed validator logic, staking mechanisms, and consensus protocol for a custom Layer 1 blockchain
+
+- **🌉 Cross-chain Bridge (ETH ↔ BSC ↔ Polygon ↔ Tron)**  
+  Built decentralized, liquidity-based bridge protocol with validator-based verification
+
+- **📊 Bitcoin & Dogecoin Indexers**  
+  Built high-performance indexers for UTXO tracking, supporting 150+ concurrent users
+
+- **💸 DeFi Projects & Financial Protocols**  
+  Developed a wide range of DeFi smart contracts including **staking**, **token swapping**, **P2P trading**, **vesting**, and **liquidity bridging**.  
+  Also built secure, upgradable contracts for **vaults** and for **managing game platform funds**. Emphasized gas optimization, access control, and modularity.
+
+- **🔍 Smart Contract Audits**  
+  Conducted 25+ audits with deep analysis and mitigation of critical vulnerabilities
+
+---
+
+### 🎓 Education
+
+- **M.Sc. Computer Science (Cyber Security)**  
+  Cochin University of Science & Technology (CUSAT), Kerala – 2019
+
+- **B.C.A – Bachelor of Computer Applications**  
+  Mahatma Gandhi University, Kerala – 2017
+
+---
+
+### 📬 Let’s Connect
+
+- 🌐 Portfolio: [devbysaby.github.io](https://devbysaby.github.io)  
+- 📧 Email: [devbysaby@gmail.com](mailto:devbysaby@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sabir-aboobaker)
