@@ -128,4 +128,4 @@ Smart Contract Auditing, Blockchain Architecture (DApp Design, Token Standards)
 
 ---
 
-**Note:** Some older blockchain projects are archived. New hobby projects and production-grade samples coming soon.
+**Note:**  Older projects are archived. New intresting projects coming soon.
