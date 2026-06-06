@@ -69,7 +69,7 @@ Embeddings, Transformers, Prompt Engineering, Agent-based Workflows
 
 #### 💻 Frontend & Mobile Development
 React, Angular, Next.js, TypeScript  
-React Native, Xamarin
+React Native
 
 #### 🔗 Blockchains & Networks
 Ethereum, Polygon, Binance Smart Chain, Tron, Solana, Bitcoin, Dogecoin, Litecoin, Algorand  
@@ -85,14 +85,13 @@ AWS, GitHub Actions, Jenkins, Docker, PM2
 Monitoring & Observability: Grafana, Kibana, Datadog, Octant, CloudWatch
 
 #### 🧑‍💻 Programming Languages
-JavaScript, TypeScript, Python, Rust, Go, Solidity, Java, C#, SQL
+JavaScript, TypeScript, Python, Solidity, Java, SQL
 
 #### 🚀 Additional Expertise
-Smart Contract Development & Auditing  
-Cross-Chain Bridge Architecture  
-Blockchain Indexing & Data Services  
-DApp Architecture & Token Standards  
-Technical Documentation & Team Leadership
+System Architecture & Design, Performance Optimization & Scalability  
+Security Hardening & Best Practices, Database Design & Optimization  
+Technical Leadership, Mentoring & Code Reviews, TDD & Agile Methodologies  
+Smart Contract Auditing, Blockchain Architecture (DApp Design, Token Standards)
 
 ---
 
