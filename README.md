@@ -1,31 +1,48 @@
 ## 👋 Hi there, I'm Sabir Aboobaker
 
-**Backend Blockchain Developer (EVM | Tron | Solana | Bitcoin) | Node.js Engineer | Solutions Architect | Smart Contract Auditor**
+**Senior Back-end Engineer with 7+ years | AI-Powered Applications | Distributed Systems | Web3 Architect | Microservices | Cloud Engineering | Performance Optimization**
 
-With over **6 years of experience**, I specialize in architecting and building scalable, secure blockchain solutions across EVM-based networks, **Tron**, **Solana**, and **Bitcoin** ecosystems. My work spans **DeFi protocols**, **cross-chain bridges**, **crypto wallets**, **blockchain indexing**, and **smart contract audits**, all with a strong emphasis on performance, modularity, and security.
+- Senior Back-end Engineer with 7+ years of experience designing and delivering scalable, production-grade distributed systems using Node.js (JavaScript/TypeScript) across enterprise, fintech, and Web3 domains.
+- Strong background in building microservices, event-driven architectures, and highthroughput APIs using NestJS, Express, Kafka, RabbitMQ, Redis, and both SQL/NoSQL databases.
+- Hands-on experience in AI-driven back-end systems, including RAG pipelines, agent-based workflows, semantic search, and LLM integrations using LangChain, vector databases (Qdrant), and transformer embeddings.
+- Additional expertise in system architecture and cloud-native engineering on AWS, with strong exposure to DevOps, CI/CD, observability, and performance tuning of large-scale distributed systems.
+- Good working knowledge of Java and Python (supporting roles) and strong experience in Web3 backend systems, including DeFi platforms, wallets, and cross-chain integrations.
 
 ---
 
 ### 💼 What I Do
 
-#### 🔗 **Blockchain Development**
-- Built smart contracts for **staking**, **swapping**, **P2P trading**, **vesting**, **bridging**, **NFTs**, **gaming fund management**, and **upgradable vault systems**
-- Integrated advanced features like **access control**, **gasless meta-transactions**, **EIP-712 typed data signatures**, and **contract upgradeability**
-- Worked across **EVM chains**, **Tron**, **Solana (Rust)**, and **EOS (C++)**
-
 #### 🚀 **Node.js Development**
 - Built high-performance **backend APIs** using **Express.js**, **NestJS**, and integrated with frontend frameworks like **Next.js**, **React**, and **Angular**
 - Managed data using **MongoDB**, **PostgreSQL**, **MySQL**, **Redis**, and real-time messaging with **RabbitMQ** and **Kafka**
 - Primarily focused on backend architecture with minimal UI involvement
+- Designed scalable microservices handling **high concurrency** and **high-traffic** production workloads
+
+#### 🤖 **AI & RAG Systems**
+- Architected and deployed **RAG (Retrieval-Augmented Generation)** pipelines integrating **Claude LLM**, **OpenAI**, and **Ollama**
+- Built **agent-based workflows** using **LangChain** for enterprise automation and intelligent support systems
+- Implemented **vector database integrations** (Qdrant, pgvector) with **semantic search** and **embedding strategies** (transformer-based)
+- Designed **chunking strategies**, **prompt engineering**, and **context optimization** for production-grade LLM systems
+- Developed intelligent back-office automation, customer support workflows, and service request handling via AI agents
 
 #### 🛠 **Backend Engineering**
-- Developed **API services**, **microservices**, and **event-driven bots** in **Node.js**, **Python**, and **Rust**
-- Built services for **crypto wallets**, **DeFi platforms**, **NFT apps**, and **cross-chain bridges**
-- Implemented **indexers**, **watch services**, **price rebalancing bots**, and a **P2P trade engine**
+- Developed **AI-powered API services** and **agent-based systems** using **LangChain**, **Claude LLM**, and **RAG pipelines** for enterprise automation and intelligent workflows
+- Built scalable **REST and GraphQL APIs**, **microservices**, and **event-driven architectures** in **Node.js**, **Express.js**, **NestJS**, **Python**, and **Rust**
+- Engineered backend systems for **e-commerce platforms** (booking workflows, payment integrations, product catalogs) and **fintech applications** (transaction processing, wallet management, real-time settlement)
+- Additional experience building services for **crypto wallets**, **DeFi platforms**, **NFT apps**, and **cross-chain bridges**
+- Focused on **performance optimization**, **data consistency**, **high-availability** patterns, and **security hardening**
 
 #### 🏗 **Solutions Architecture**
-- Designed large-scale decentralized applications and smart contracts managing **high-value funds** and **high concurrency users**
-- Delivered **secure**, **gas-efficient**, and **modular systems** tailored to complex business logic
+- Architected **AI-driven systems** and **RAG-powered applications** for enterprise support, automation, and intelligent workflows
+- Designed **scalable backend architectures** for **e-commerce platforms** (high-throughput order processing, inventory management, payment flows) and **fintech applications** (real-time transaction processing, settlement systems, risk management)
+- Built **event-driven**, **microservices-based**, and **serverless architectures** on **AWS** with **horizontal scaling**, **load balancing**, and **disaster recovery** strategies
+- Additional expertise in designing **decentralized applications** and **blockchain systems** managing high-value assets across multiple networks
+- Delivered **secure**, **performance-optimized**, and **modular systems** tailored to complex business logic
+
+#### 🔗 **Blockchain Development**
+- Built smart contracts for **staking**, **swapping**, **P2P trading**, **vesting**, **bridging**, **NFTs**, **gaming fund management**, and **upgradable vault systems**
+- Integrated advanced features like **access control**, **gasless meta-transactions**, **EIP-712 typed data signatures**, and **contract upgradeability**
+- Worked across **EVM chains**, **Tron**, **Solana (Rust)**, and **EOS (C++)**
 
 #### 🔒 **Smart Contract Auditing**
 - Audited **25+ smart contracts**, identifying and fixing issues like **reentrancy**, **access control flaws**, and **gas inefficiencies**
@@ -34,36 +51,41 @@ With over **6 years of experience**, I specialize in architecting and building s
 #### ⚙️ **DevOps & Cloud Infrastructure**
 - Deployed and managed services using **AWS** (EC2, Beanstalk, Lambda, API Gateway, RDS, DynamoDB, S3, SQS, SNS, etc.)
 - CI/CD pipelines with **GitHub Actions**, **Jenkins**, **PM2**, and containerization with **Docker**
-- Monitored logs and metrics using **Grafana**, built robust deployment workflows for multi-service apps
+- Monitored logs and metrics with Grafana, Kibana, Datadog, and Octant, built robust deployment workflows for multi-service apps
 
 ---
 
 ### 🛠 Skills
 
+#### 🖥 Backend & API Development
+Node.js, Express.js, NestJS  
+MongoDB, PostgreSQL, MySQL, Redis  
+RabbitMQ, Kafka, REST APIs, GraphQL
+
+#### 🤖 AI & RAG Technologies
+LangChain, LLM Integration (Claude, OpenAI, Ollama, Groq)  
+RAG Pipelines, Semantic Search, Vector Databases (Qdrant, pgvector)  
+Embeddings, Transformers, Prompt Engineering, Agent-based Workflows
+
+#### 💻 Frontend & Mobile Development
+React, Angular, Next.js, TypeScript  
+React Native, Xamarin
+
 #### 🔗 Blockchains & Networks
 Ethereum, Polygon, Binance Smart Chain, Tron, Solana, Bitcoin, Dogecoin, Litecoin, Algorand  
 Hyperledger (Indy, Aries, Firefly)
-
-#### 🧑‍💻 Programming Languages
-Solidity, Rust, JavaScript, TypeScript, Python, Go, C#, Java, SQL
 
 #### ⚒️ Blockchain Tools & Frameworks
 Foundry, Hardhat, Viem, Ethers.js, Web3.js, TronWeb, Web3.py  
 OpenGSN, Moralis, OpenZeppelin Defender  
 Auditing Tools: Slither, Mythril
 
-#### 🖥 Backend & API Development
-Node.js, Express.js, NestJS  
-MongoDB, PostgreSQL, MySQL, Redis  
-RabbitMQ, Kafka, REST APIs
-
-#### 💻 Frontend & Mobile Development
-React, Angular, Next.js, TypeScript  
-React Native, Xamarin
-
 #### ☁️ DevOps & Cloud Infrastructure
 AWS, GitHub Actions, Jenkins, Docker, PM2  
-Grafana for monitoring and analysis
+Monitoring & Observability: Grafana, Kibana, Datadog, Octant, CloudWatch
+
+#### 🧑‍💻 Programming Languages
+JavaScript, TypeScript, Python, Rust, Go, Solidity, Java, C#, SQL
 
 #### 🚀 Additional Expertise
 Smart Contract Development & Auditing  
@@ -76,36 +98,35 @@ Technical Documentation & Team Leadership
 
 ### 🚀 Notable Projects
 
-- **🧱 EVM-based Blockchain Network**  
-  Designed validator logic, staking mechanisms, and consensus protocol for a custom Layer 1 blockchain
+- **🤖 AI Assistant Chatbot for Back-Office Portal**  
+  Built a **backend microservice** for an intelligent AI assistant chatbot integrated into back-office portals using **LLMs**, **RAG pipelines**, and **LangChain**. Enabled users to navigate web pages, summarize content, auto-fill forms, and query business data through natural language interactions. Excluded data submission, authentication, and critical actions for security compliance. Powered by semantic search with vector embeddings for context-aware responses.
 
-- **🌉 Cross-chain Bridge (ETH ↔ BSC ↔ Polygon ↔ Tron)**  
-  Built decentralized, liquidity-based bridge protocol with validator-based verification
+- **🛠 Backend Services for E-Commerce, DeFi & Enterprise Solutions**  
+  Architected and delivered scalable backend systems for diverse enterprise applications spanning **e-commerce platforms** (order processing, payments, inventory management), **DeFi protocols** (trading, lending, yield farming), and **enterprise solutions** (workflow automation, data pipelines). Utilized **Node.js**, **NestJS**, **GraphQL**, **REST APIs**, and **event-driven architectures** with **PostgreSQL** and **MongoDB** for high-concurrency, high-throughput production environments.
 
-- **📊 Bitcoin & Dogecoin Indexers**  
-  Built high-performance indexers for UTXO tracking, supporting 150+ concurrent users
+- **🌉 Cross-Chain Bridge Protocol**  
+  Engineered a decentralized, **liquidity-based cross-chain bridge** supporting multiple blockchain networks with **validator-based verification**, **robust retry mechanisms**, and **fault-tolerant processing**. Implemented backend logic using **Redis** and **RabbitMQ** for message queuing and state management. Achieved secure asset transfers across heterogeneous blockchains with optimized gas efficiency.
 
-- **💸 DeFi Projects & Financial Protocols**  
-  Developed a wide range of DeFi smart contracts including **staking**, **token swapping**, **P2P trading**, **vesting**, and **liquidity bridging**.  
-  Also built secure, upgradable contracts for **vaults** and for **managing game platform funds**. Emphasized gas optimization, access control, and modularity.
+- **🧱 EVM-Based Blockchain Network**  
+  Designed and implemented core infrastructure for a custom **Layer 1 blockchain**, including **validator logic**, **staking mechanisms**, and **consensus protocol implementation**. Built backend services for node management, transaction validation, and network observability using **Node.js** and **AWS**. Focused on security, scalability, and high-availability patterns.
 
-- **🔍 Smart Contract Audits**  
-  Conducted 25+ audits with deep analysis and mitigation of critical vulnerabilities
+- **💸 DeFi & Financial Protocols**  
+  Developed comprehensive **smart contracts** and **backend systems** for DeFi platforms, including **staking pools**, **token swapping**, **P2P trading engines**, **vesting mechanisms**, and **liquidity bridging**. Built secure, **upgradable smart contracts** with advanced features like **meta-transactions**, **access control**, and **gas optimization**. Integrated wallet management, transaction settlement, and real-time blockchain event tracking.
 
----
+- **📊 UTXO-Based Blockchain Indexers**  
+  Built high-performance **blockchain indexers** for UTXO-based networks, enabling real-time data aggregation and querying across distributed ledger infrastructure. Implemented efficient data models supporting **150+ concurrent users** with sub-second query latency. Integrated with backend APIs for transaction tracking, address monitoring, and historical data retrieval.
 
-### 🎓 Education
-
-- **M.Sc. Computer Science (Cyber Security)**  
-  Cochin University of Science & Technology (CUSAT), Kerala – 2019
-
-- **B.C.A – Bachelor of Computer Applications**  
-  Mahatma Gandhi University, Kerala – 2017
+- **🔍 Smart Contract Security Audits**  
+  Conducted **25+ comprehensive smart contract audits**, identifying and mitigating critical vulnerabilities including **reentrancy exploits**, **access control flaws**, **integer overflow/underflow**, and **gas inefficiencies**. Utilized **static analysis tools** (Slither, Mythril) combined with **manual code review** to deliver detailed audit reports with remediation strategies.
 
 ---
 
-### 📬 Let’s Connect
+### 📬 Let's Connect
 
 - 🌐 Portfolio: [devbysaby.github.io](https://devbysaby.github.io)  
-- 📧 Email: [devbysaby@gmail.com](mailto:devbysaby@gmail.com)  
+- 📧 Email: [sabiraboobacker007@gmail.com](mailto:sabiraboobacker007@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sabir-aboobaker)
+
+---
+
+**Note:** Some older blockchain projects are archived. New hobby projects and production-grade samples coming soon.
